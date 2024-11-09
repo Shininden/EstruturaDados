@@ -5,6 +5,8 @@ import EstruturaDados.EstruturaEstatica;
 @SuppressWarnings("rawtypes")
 public class ArrayLista<T> extends EstruturaEstatica
 {
+
+	
     public ArrayLista() {
         super();
     }
