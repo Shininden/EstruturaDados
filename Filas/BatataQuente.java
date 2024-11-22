@@ -1,7 +1,5 @@
 package EstruturaDados.Filas;
 
-import EstruturaDados.Vetores.Vetor;
-
 import java.util.Random;
 
 public class BatataQuente

@@ -9,6 +9,7 @@ public class FilaComPrioridade<T> extends Fila<T>
 
     public void enqueue(T element)
     {
+        @SuppressWarnings("unchecked")
         Comparable<T> key = (Comparable<T>) element;
 
         int i;
