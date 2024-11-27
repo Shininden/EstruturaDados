@@ -1,4 +1,4 @@
-package EstruturaDados.Vetores;
+package EstruturaDados.Listas;
 
 public class Vetor 
 {

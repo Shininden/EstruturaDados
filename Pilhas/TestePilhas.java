@@ -1,7 +1,4 @@
-package EstruturaDados.Vetores;
-
-import EstruturaDados.Pilhas.Livro;
-import EstruturaDados.Pilhas.Pilha;
+package EstruturaDados.Pilhas;
 
 import java.util.Scanner;
 import java.util.Stack;

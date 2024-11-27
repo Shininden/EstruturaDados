@@ -1,4 +1,4 @@
-package EstruturaDados.Vetores;
+package EstruturaDados.Listas;
 import EstruturaDados.Pilhas.Contato;
 
 import java.util.Scanner;
